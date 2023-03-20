@@ -9,5 +9,6 @@
     <br />
     <br />🌱 ACG lover
     <br />
+    <br />🍊 我的<a href="https://www.jianshu.com/u/2160f157fc21">简书</a>
   </samp>
 </p>
